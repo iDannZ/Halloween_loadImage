@@ -1,3 +1,4 @@
+/* @pjs preload="cinderellas-castle-drawing-62.jpg"; */
 PImage img;
 Rain r1;
 int numDrops = 10000;
